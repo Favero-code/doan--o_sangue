@@ -6,3 +6,9 @@
     justify-content: center;
     
 }
+
+.informações {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
